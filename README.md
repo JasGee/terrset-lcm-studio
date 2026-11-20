@@ -1,6 +1,6 @@
 # TerrSet LCM Studio — Metadata Validator, Spatial Aligner & .RST/.RDC Converter
 
-**Dikembangkan oleh:** Naryama Faza Al Ghazy 
+**Dikembangkan oleh:** Naryama Faza Al Ghazy                
 **Bidang:** Geographic Information System (GIS) & Remote Sensing — Analisis Perubahan Tutupan Lahan (LULC)
 
 ---
